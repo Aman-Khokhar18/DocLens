@@ -1,0 +1,6 @@
+torch
+openai
+vllm
+huggingface_hub
+scrapy
+
